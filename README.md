@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Daniel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/lQ0VQmLuLH7lS/giphy.gif">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif">
 </div>
    
   ##
