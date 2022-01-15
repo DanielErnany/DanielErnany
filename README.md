@@ -3,8 +3,8 @@
 <div align="right">
  
 |Visitor's Count|
-| -------- |
-|<img align="center" src="https://profile-counter.glitch.me/DanielErnany/count.svg" alt="Visitor Count" />|
+| :--------: |
+|<img align="center" width="70%" src="https://profile-counter.glitch.me/DanielErnany/count.svg" alt="Visitor Count" />|
 
 </div>
  
