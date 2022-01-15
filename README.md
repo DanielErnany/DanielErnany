@@ -1,9 +1,12 @@
 <h2 align="left">Olá sou Daniel Ernany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
 
-
+<div align="right">
+ 
 |Visitor's Count|
 | -------- |
 |<img align="center" src="https://profile-counter.glitch.me/DanielErnany/count.svg" alt="Visitor Count" />|
+
+</div>
  
 <div align="center">
   <a href="https://github.com/DanielErnany">
