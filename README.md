@@ -1,6 +1,10 @@
-<h2 align="left">Olá sou Daniel Ernany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
+<h2 align="left"> Hello I'm Daniel Ernany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> 
 
-<div align="right">
+<div align="left"><p>💻 I'm a <b>Mobile and Desktop Developer</b>.</p>
+<p>🎓 <b>Mechatronics engineering</b> student, <b>Computer Technician</b> .</p>
+</div>
+ 
+ <div align="right">
  
 |Visitor's Count|
 | :--------: |
