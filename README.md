@@ -1,9 +1,10 @@
 # Olá, sou Daniel Ernany !
 
+<h2 align="right">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/DanielErnany/count.svg" alt="Visitor Count" /></h2>
 <div align="center">
   <a href="https://github.com/DanielErnany">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielErnany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErnany&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielErnany&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&line_height=24"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErnany&layout=compact&langs_count=7&theme=dark&hide_border=true&border_radius=15&line_height=24&card_width=380"/>
 </div>
   
 ### Languages, Tools & Framework:
